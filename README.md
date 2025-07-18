@@ -1,8 +1,7 @@
 
 <h2 align="center"> Hi there ! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px"> I'm Shuvo</h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
 <h3 align="center">Full Stack Developer | MERN & Laravel Expert | Passionate Coder</h3>
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
 <p align="center">
   <a href="https://x.com/Ashikuzza_Shuvo">
     <img src="https://img.shields.io/twitter/follow/Ashikuzza_Shuvo?label=Follow&style=social" />
