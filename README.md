@@ -1,6 +1,6 @@
 # azshuvo-
-<h1 align="center">Hi 👋, I'm Az Shuvo</h1>
-<h3 align="center">Full Stack Developer | MERN & Laravel Expert | Passionate Coder</h3>
+<h1 style="text-align: center;">Hi 👋, I'm Az Shuvo</h1>
+<h3 style="text-align: center;">Full Stack Developer | MERN & Laravel Expert | Passionate Coder</h3>
 
 <p align="center">
   <a href="https://x.com/Ashikuzza_Shuvo">
