@@ -39,7 +39,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azshuvo&theme=github)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azshuvo&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azshuvo&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jobair-talha&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jobair-talha&theme=github)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=azshuvo&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azshuvo&theme=github&utcOffset=8)
 
