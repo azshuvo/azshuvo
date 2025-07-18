@@ -37,14 +37,12 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azshuvo&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azshuvo&layout=compact&theme=tokyonight" width="48%" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jobair-talha&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=azshuvo&theme=tokyonight" width="60%" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jobair-talha&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jobair-talha&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jobair-talha&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jobair-talha&theme=github_dark&utcOffset=8)
+
 
 ---
 
