@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi there ! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px"> I'm Shuvo</h1>
+<h1 align="left"> Hi there ! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px"> I'm Ashikuzzaman Shuvo</h1>
 <h3 align="left">Full Stack Developer | MERN & Laravel Expert | Passionate Coder</h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
 <p align="left">
