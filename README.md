@@ -38,11 +38,13 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=photoshop)
-![Illustrator](https://img.shields.io/badge/-Illustrator-orange?style=flat-square&logo=adobe-illustrator)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
 ![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+[![Meta Ads](https://img.shields.io/badge/Meta%20Ads-1877F2?style=flat-square&logo=meta&logoColor=white)](https://www.facebook.com/business/ads)
 
 
 ---
