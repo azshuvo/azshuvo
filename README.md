@@ -43,7 +43,6 @@
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
 ![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 [![Meta Ads](https://img.shields.io/badge/Meta%20Ads-1877F2?style=flat-square&logo=meta&logoColor=white)](https://www.facebook.com/business/ads)
 
 
@@ -62,6 +61,7 @@
 
 ### 🔗 Connect with me
 
+- 📱 WhatsApp: [Chat Now](https://wa.me/8801923247420)
 - 📘 Facebook: [ashuvo.fb](https://www.facebook.com/ashuvo.fb)
 - 🐦 Twitter/X: [@Ashikuzza_Shuvo](https://x.com/Ashikuzza_Shuvo)
 - 📧 Email: [mdashikuzzamanshuvo@gmail.com](mailto:mdashikuzzamanshuvo@gmail.com)
