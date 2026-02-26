@@ -26,6 +26,9 @@
 - 📫 Reach me: **mdashikuzzamanshuvo@gmail.com**
 
 ---
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667"><img src="https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake animation" data-canonical-src="https://profile-readme-generator.com/assets/snake.svg" style="max-width: 100%;"></a>
+---
+---
 
 ### 🛠️ Skills & Tools:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
